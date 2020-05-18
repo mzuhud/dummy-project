@@ -2,3 +2,5 @@ RESOLUSI
 - Terus belajar dan berkembang tidak lagi buang-buang waktu
 - membuat website untuk informasi kegiatan umum siswa akhir KMI
 - membuat forum diskusi
+- membuat website untuk pengenalan usaha
+- membuat fitur untuk website pengenalan usaha
